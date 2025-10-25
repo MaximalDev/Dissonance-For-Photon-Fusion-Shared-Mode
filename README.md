@@ -1,6 +1,7 @@
 # Dissonance For Photon Fusion Shared Mode
 A slightly modified version of Dissonance’s official Fusion asset, updated to support Shared Mode.
 Based on the offical intergration for Fusion, V9.0.7
+This package also contains a IDissonancePlayer for Fusion.
 
 Using this package requires that you have already purchased and installed Dissonance Voice Chat and Photon Fusion.
 
